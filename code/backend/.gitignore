@@ -1,0 +1,43 @@
+# Node.js and npm
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Serverless directory
+.serverless/
+
+# TypeScript
+dist/
+tsconfig.tsbuildinfo
+
+# IDE files
+.vscode/
+.idea/
+
+# Test coverage
+coverage/
+
+# Jest snapshot directory
+__tests__/__snapshots__/
+
+# Editor specific files
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+.komodoedit/
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+
+# Environment variables file
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
